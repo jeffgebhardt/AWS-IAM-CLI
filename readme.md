@@ -15,7 +15,8 @@
 - Install dependencies by entering the following command `npm i` from the projects root directory. (Note you will get some deprecation warnings from the dependency `asyncblock`, just ignore them.)
 - Ensure the AWS CLI is installed on your machine. Run `which aws` from your terminal.
 - This tool utilizes "profiles" to access your AWS accounts. Setup your account profiles by running the following command, `aws configure --profile awsAccountName`. Ensure when creating profiles to set the default output to "json".
--  Ensure the file `.aws/credentials` is in your home directory, as the tool will look there to populate accounts.
+- Ensure the file `.aws/credentials` is in your home directory, as the tool will look there to populate accounts.
+- Ensure the AWS IAM account you are using has proper permissions to delete users in IAM.
 
 
 ###**Usage**
