@@ -13,7 +13,7 @@
   "author": "RhythmOne: Jeffrey Gebhardt <jgebhardt@rhythmone.com>",
   "license": "ISC",
   "dependencies": {
-    "asyncblock": "^2.2.8",
+    "asyncblock": "^2.2.9",
     "chalk": "^1.1.3",
     "vorpal": "^1.11.4"
   },
