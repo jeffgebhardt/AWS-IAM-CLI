@@ -1,4 +1,4 @@
-# AWS-IAM-CLI
+# aws-iam-delete
 
 *Supports OSX/Linux (Not fully tested in Linux)*
 
